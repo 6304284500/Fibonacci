@@ -1,0 +1,5 @@
+C:\Users\91630\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\91630\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91630\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\91630\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\91630\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
